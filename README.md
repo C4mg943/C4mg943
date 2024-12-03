@@ -37,12 +37,13 @@
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 
 ##### Sudo su:
-<!-- wi*quL3fcV -->
 
-const exploit = (system) => {
-    console.log("I'm not a hacker; I'm a security enthusiast... Promise! 😅");
-};
-exploit("Production Environment"); // just kidding!
+// My favorite command:
+sudo rm -rf /root/happy && sudo apt install patience
+
+// Output:
+Error: Patience not found. Try 'sudo brew install coffee' instead.
+
 
 ```
 
