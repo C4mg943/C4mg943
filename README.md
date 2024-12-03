@@ -43,7 +43,7 @@ sudo reboot
 
 ##### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/camilo_andresmg?si=0e83579de32d4aef)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=camilo_andresmg&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
