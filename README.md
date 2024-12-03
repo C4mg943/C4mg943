@@ -36,11 +36,10 @@
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 
-##### Sudo su:
+##### my favorite command:
 
 sudo rm -rf /root/beer && sudo apt install patience
 
-# Resultado:
 ┌──────────────────────────────────────┐
 │ ⚠️ Error: Patience not found.         │
 │ 👉 Intenta 'sudo brew install coffee' │
