@@ -36,9 +36,9 @@
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 
-##### my favorite command:
+##### My favorite command:
 
-sudo reboot
+sudo shutdown
 
 
 ##### Spotify Playing 🎧
