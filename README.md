@@ -44,7 +44,6 @@ sudo rm -rf /root/beer && sudo apt install patience
 │ ⚠️ Error: Patience not found.         │
 │ 👉 Intenta 'sudo brew install coffee' │
 └──────────────────────────────────────┘
-```
 
 ##### Spotify Playing 🎧
 
