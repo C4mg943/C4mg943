@@ -1,5 +1,4 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
-
+## Whoami <3
 ##### Hi, I'm Camilo:
 
 - 🎓Recent computer science graduate from UNC - Chapel Hill
