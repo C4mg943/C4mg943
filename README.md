@@ -1,10 +1,10 @@
 ## Wh0aM1
 ##### Hi, I'm Camilo:
 
-- 🎓Recent computer science graduate from UNC - Chapel Hill
-- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
+- 🎓In the process of a degree in Computer Science from the University of Magdalena 
+- :test_tube: Passionate about cybersecurity with startup certifications, and preparing to make the industry transition, I want the EJPT2 and CEH
 - 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
-- :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
+- :speech_balloon: Ask me about accessibility, cybersecurity, pententing, web, or IoT, database and chess!
 - :mailbox: You can reach me with the links below
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xamg943)
