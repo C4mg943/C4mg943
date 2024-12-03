@@ -38,13 +38,13 @@
 
 ##### Sudo su:
 
-// My favorite command:
-sudo rm -rf /root/happy && sudo apt install patience
+sudo rm -rf /root/beer && sudo apt install patience
 
-// Output:
-Error: Patience not found. Try 'sudo brew install coffee' instead.
-
-
+# Resultado:
+┌──────────────────────────────────────┐
+│ ⚠️ Error: Patience not found.         │
+│ 👉 Intenta 'sudo brew install coffee' │
+└──────────────────────────────────────┘
 ```
 
 ##### Spotify Playing 🎧
